@@ -28,7 +28,7 @@ It provides key insights into sales, profit, and customer performance across cat
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](Image-Dashboard-Preview.png)
 
 ---
 
@@ -37,8 +37,6 @@ It provides key insights into sales, profit, and customer performance across cat
   - PivotTables  
   - PivotCharts  
   - Slicers  
-  - Conditional Formatting  
 
 ---
 
-## 📂 Project Structure
