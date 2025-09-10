@@ -12,16 +12,6 @@ Watch the interactive dashboard in action:
 ### Quick Preview  
 ![Dashboard Demo](Dashboard_Demo.gif)
 ---
-## 🎥 Dashboard Demo
-Watch the interactive dashboard demo here:  
-[▶️ View Video on Google Drive](https://drive.google.com/file/d/1zGbbP3LBL6iZ5HMh_fdf2ZwG8_E9DiKn/view?usp=drive_link)
-
----
-## 🎥 Dashboard Demo
-Watch the interactive dashboard demo here:  
-[▶️ View Video on Google Drive]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1zGbbP3LBL6iZ5HMh_fdf2ZwG8_E9DiKn/view?usp=drive_link))
-
----
 
 ## 🚀 Features
 - **KPIs (Cards):**
@@ -41,12 +31,7 @@ Watch the interactive dashboard demo here:
 - **Key Insights:**
   - Technology is the most profitable category.  
   - West region leads in profit contribution.  
-  - Sales peak observed in November–December.  
-
----
-
-## 📸 Dashboard Preview
-![Dashboard Preview](Image-Dashboard-Preview.png)
+  - Sales peak observed in November–December. 
 
 ---
 
