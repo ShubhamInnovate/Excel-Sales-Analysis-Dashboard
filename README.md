@@ -4,12 +4,11 @@ This project is an **interactive Excel Dashboard** built using the Superstore da
 It provides key insights into sales, profit, and customer performance across categories, regions, and time periods.  
 
 ---
-## 🎥 Project Demo
-Watch the interactive dashboard in action:  
-[![Dashboard Demo](Dashboard_Demo.mp4)
-
+## 🎥 Project Dashboard:
+![Dashboard Demo](Image-Dashboard-Preview.png)
 ---
-### Quick Preview  
+---
+### Quick Preview:
 ![Dashboard Demo](Dashboard_Demo.gif)
 ---
 
