@@ -11,6 +11,11 @@ Watch the interactive dashboard in action:
 ---
 ## 🎥 Dashboard Demo
 Watch the interactive dashboard demo here:  
+[▶️ View Video on Google Drive](https://drive.google.com/file/d/1zGbbP3LBL6iZ5HMh_fdf2ZwG8_E9DiKn/view?usp=drive_link)
+
+---
+## 🎥 Dashboard Demo
+Watch the interactive dashboard demo here:  
 [▶️ View Video on Google Drive]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1zGbbP3LBL6iZ5HMh_fdf2ZwG8_E9DiKn/view?usp=drive_link))
 
 ---
